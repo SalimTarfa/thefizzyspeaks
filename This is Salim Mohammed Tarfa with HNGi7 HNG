@@ -1,0 +1,11 @@
+valid json file
+[
+  {
+    "file": "myScript.py",
+    "output": "Hello World, this is Salim Mohammed Tarfa with HNGi7 ID HNG-06202 and email seyi@hng.tech using Python for stage  task",
+    "name": "Salim Tarfa",
+    "id": "HNG-06202",
+    "email": "tarfasalim@gmail.com",
+    "language": "Python",
+  }
+]
